@@ -14,7 +14,7 @@
   "pin": false,
   "rangeStrategy": "bump",
   "constraints": {
-    "pnpm": "7"
+    "pnpm": "11.25.0"
   },
   "packageRules": [
     {
